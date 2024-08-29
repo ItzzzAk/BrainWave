@@ -1,6 +1,6 @@
 # 🌟 Brainwave Website
 
-![Brainwave Website](https://via.placeholder.com/1200x400.png?text=Brainwave+Website)
+![Brainwave Website](src/assets/bannerimg.png)
 
 **Brainwave** is a visually captivating and responsive website designed with modern UI/UX principles. Built using **React**, **Vite**, and **Tailwind CSS**, this project showcases a stunning user interface with smooth parallax effects and a fully responsive design.
 
